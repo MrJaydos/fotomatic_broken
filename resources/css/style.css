@@ -130,6 +130,7 @@ header .mobile {
   justify-content: flex-start;
   align-items: flex-start;
   height: 43.5rem;
+  width: 100%;
   background-image: url(../images/banner-landingpage.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -138,10 +139,12 @@ header .mobile {
 }
 
 #sign-up-cta {
+  margin-left: 6.25rem;
   padding: 0 5rem 2.5rem 5rem;
   border: solid 1px #979797;
   border-radius: 4px;
   background-color: #9dc20b;
+  align-self: center;
 }
 
 #sign-up-cta .content {
