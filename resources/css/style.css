@@ -112,6 +112,13 @@ header .mobile {
 
 /* Sign Up Section */
 
+.banner {
+  background-image: url(../images/banner-landingpage.jpg);
+  background-size: cover;
+  background-repeat: none;
+  margin: 0;
+}
+
 #sign-up-section {
   display: flex;
   justify-content: flex-start;
